@@ -3,8 +3,8 @@ import random
 
 guessesTaken = 0
 
-print ("Fuck you!")
-print ("Give me your fucking name so I can steal your identity")
+print ("Feck you!")
+print ("Give me your fecking name so I can steal your identity")
 myName = input()
 
 number = random.randint(1, 20)
